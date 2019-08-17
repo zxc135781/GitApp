@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GitApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">祀画</string>
+    <string name="nav_header_subtitle">//</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_profile">Profile</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_news">News</string>
+    <string name="menu_issues">Issues</string>
+
+    <string name="menu_my_repos">My repos</string>
+    <string name="menu_starred_repos">Starred repos</string>
+    <string name="menu_bookmarks">Menu bookmarks</string>
+
+    <string name="menu_search">Search</string>
+    <string name="menu_trace">Trace</string>
+    <string name="menu_trending_repos">Trending repos</string>
+    <string name="menu_repo_collections">Repo collections</string>
+    <string name="menu_featured_topics">Featured topics</string>
+    <string name="menu_global_news">Global news</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+
+</resources>
