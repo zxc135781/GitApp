@@ -27,6 +27,7 @@ script:
   - pwd
   - ls
   - cd app/build/outputs
+  - ls
 deploy:
   provider: releases
   api_key: $key
