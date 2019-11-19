@@ -28,7 +28,7 @@ script:
   - ls
   - cd app/build/outputs/apk
   - ls
-  - cd app/build/outputs/apk
+  - cd app
   - ls
 deploy:
   provider: releases
