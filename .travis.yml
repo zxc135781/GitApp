@@ -28,6 +28,8 @@ script:
   - ls
   - cd app/build/outputs/apk
   - ls
+  - cd app/build/outputs/apk
+  - ls
 deploy:
   provider: releases
   api_key: $key
