@@ -26,8 +26,6 @@ script:
   - chmod +x ./gradlew
   - pwd
   - ls
-  - cd app/build/outputs/apk
-  - ls
   - cd app
   - ls
 deploy:
