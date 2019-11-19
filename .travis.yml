@@ -25,6 +25,7 @@ android:
 script: 
   - chmod +x ./gradlew
   - pwd
+  - ls
 deploy:
   provider: releases
   api_key: $key
