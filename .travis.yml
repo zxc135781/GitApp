@@ -24,9 +24,10 @@ android:
     - sys-img-armeabi-v7a-android-26
 script: 
   - chmod +x ./gradlew
+  - pwd
 deploy:
   provider: releases
   api_key: $key
   file_glob: true
-  file: "app/build/outputs/apk/*/*.apk"
+  file: app/build/outputs/apk/*/*.apk
   skip_cleanup: true
